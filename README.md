@@ -1,6 +1,7 @@
 # HedgehogApp
 
 A Windows desktop companion app for Twitch and Kick streamers, built by [Gladicek](https://github.com/Gladicek).
+This application is build with help of Claude AI. There is nothing to hide, so be aware that this product can be sloppy.
 
 HedgehogApp connects to your Twitch or Kick channel and gives you a single place to run your
 stream from: live chat, a moderation-friendly chat bot (commands, timed messages, song requests,
@@ -11,7 +12,7 @@ integration, and per-platform statistics.
 ## About This Repository
 
 This repository does not contain source code. It exists purely to host release binaries so the
-app's own built-in updater (Settings → Aktualizace) can check for and download new versions. The
+app's own built-in updater (Settings → Updates) can check for and download new versions. The
 application itself is closed-source and distributed to a small circle of streamers directly by the
 author.
 
