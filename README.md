@@ -4,7 +4,7 @@ A Windows desktop companion app for Twitch and Kick streamers, built by [Gladice
 This application is build with help of Claude AI. There is nothing to hide, so be aware that this product can be sloppy.
 
 HedgehogApp connects to your Twitch or Kick channel and gives you a single place to run your
-stream from: live chat, a moderation-friendly chat bot (commands, timed messages, song requests,
+stream from: alerts, live chat, a moderation-friendly chat bot (commands, timed messages, song requests,
 giveaways), on-stream widgets (polls, predictions, hype trains, goals, slot machine, case opening,
 countdowns, Spotify now playing, and more), a browser-source dashboard for OBS, Stream Deck
 integration, and per-platform statistics.
